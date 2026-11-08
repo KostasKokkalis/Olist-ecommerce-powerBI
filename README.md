@@ -65,7 +65,7 @@ AVERAGE(olist_order_reviews_dataset[review_score])
   - Insight - Improving shipping times in this region alone would improve overall delivery metrics.
 
 - Top Selling categories: Bed Bath Table, Health Beauty, and Sports Leisure make up the bulk of orders.
-  - Insight - inventory shortages in these categories carry the biggest risk.
+  - Insight - Inventory shortages in these categories carry the biggest risk.
 
 ## 🛠️ Tools Used
 
